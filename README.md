@@ -1,1 +1,1 @@
-## Jyvaskyla -summer-school---Stochastic-Optimization
+## Jyvaskyla Summer School - Stochastic-Optimization
